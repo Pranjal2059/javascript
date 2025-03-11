@@ -119,6 +119,7 @@ let products = [
         name : ["apple","mango"]
     }
 ]
+sdfsdf
 console.log(products[0].name[1])
 // output --> access mango
 
